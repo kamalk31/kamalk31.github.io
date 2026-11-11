@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Statistics, Banaras Hindu University, Feb 2026 – present
+  * Specialisation: statistical modelling, reliability and survival analysis
+  * Funded by the UGC-JRF fellowship
+* M.Sc. in Statistics, Banaras Hindu University, 2023–2025 (CGPA 8.20/10)
+* B.Sc. in Mathematics and Statistics, IGNTU Amarkantak, 2020–2023 (8.27/10)
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Junior Research Fellow (JRF) and PhD Scholar, Banaras Hindu University, Feb 2026 – present
+  * Research in statistical modelling, reliability and survival analysis
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Examinations
+======
+* UGC NET, December 2025: 214/300, 99.71 percentile (JRF and Assistant Professor)
+* UGC NET, June 2025: 198/300, 95.79 percentile (Assistant Professor and Ph.D.)
+* NET-Statistics: 164/300, 94.35 percentile (Assistant Professor and Ph.D.)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Projects
+======
+* M.Sc. thesis: Heteroscedasticity and multicollinearity in regression models (BHU, 2025)
+  * Diagnosed problems with the Breusch-Pagan test, White's test and correlation matrices
+  * Compared OLS, weighted least squares, ridge regression and principal component regression in R and Excel
+* Medical insurance price prediction (Python, 2024)
+  * Exploratory analysis, feature scaling, multiple linear regression and weighted least squares
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python (Scikit-learn, Pandas, NumPy, Matplotlib), R, Excel, Jupyter
+* Statistics: regression, hypothesis testing, survival analysis, model diagnostics
 
-Publications
+Certifications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Data Analytics with Python (NPTEL)
+* Introduction to Biostatistics (NPTEL)
+* Machine Learning with Python (Coursera)
+
+Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* School and House Captain, Jawahar Navodaya Vidyalaya
+* NCC Cadet and NSS Volunteer
