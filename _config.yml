@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=YMMt0DQAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            :
+  orcid            : "https://orcid.org/0009-0004-5505-6420"
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Kamalkant-Jaiswal"
   scopus           : # URL
   zotero           : # URL
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : kamal31
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
