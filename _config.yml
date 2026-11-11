@@ -23,7 +23,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png.jpeg"
   name             : "Kamalkant Jaiswal"
   pronouns         : # example: "she/her"  
   bio              : "PhD Scholar and JRF in Statistics at BHU, working on Bayesian survival analysis and Multistate Models."
