@@ -39,4 +39,4 @@ Python (Pandas, NumPy, scikit-learn, Matplotlib), R, Excel and Jupyter Notebook.
 
 ## Contact
 
-kamalkantjaiswal042@gmail.com
+[kamalkantjaiswal042@gmail.com](mailto:kamalkantjaiswal042@gmail.com)
