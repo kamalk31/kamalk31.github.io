@@ -25,10 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png.jpeg"
   name             : "Kamalkant Jaiswal"
-  pronouns         : # example: "she/her"  
   bio              : "PhD Scholar and JRF in Statistics at BHU."
   location         : 
-  employer         : "Banaras Hindu University , Varanasi"
+  employer         : "Banaras Hindu University"
   uri              : # URL
   email            : "kamalkantjaiswal042@gmail.com"
 
