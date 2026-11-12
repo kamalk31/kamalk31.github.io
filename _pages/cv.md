@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Statistics, Banaras Hindu University, Feb 2026 – present
   * Specialisation: statistical modelling, reliability and survival analysis
-* M.Sc. in Statistics, Banaras Hindu University, 2023 –2025 (CGPA 8.20/10)
+* M.Sc. in Statistics, Banaras Hindu University, 2023 – 2025 (CGPA 8.20/10)
 * B.Sc. in Mathematics and Statistics, IGNTU Amarkantak, 2020 – 2023 (8.27/10)
 
 Experience
@@ -23,8 +23,8 @@ Experience
 
 Examinations
 ======
-* UGC NET JRF-Population Studies, December 2025: 99.71 percentile
-* UGC NET-Statistics: 94.35 percentile
+* [UGC NET JRF-Population Studies](https://drive.google.com/file/d/1seJvSXVxUeX0YmtGbVlS2ty_DvdR7DyB/view?usp=sharing), December 2025: 99.71 percentile
+* [UGC NET-Statistics](https://drive.google.com/file/d/19IkY5bf0DPb9kCTVn_ZNDokS3NAfk44y/view?usp=sharing): 94.35 percentile
 
 Projects
 ======
@@ -45,10 +45,10 @@ Skills
 
 Certifications
 ======
-* Data Analytics with Python (NPTEL)
-* Introduction to Biostatistics (NPTEL)
-* Machine Learning with Python (Coursera)
-* TCS Youth Employment Programme (TCS iON)
+* [Data Analytics with Python](https://drive.google.com/file/d/1EfRQYR7tV_whKNyXINnkuh9mMphJp5II/view?usp=sharing) (NPTEL)
+* [Introduction to Biostatistics](https://drive.google.com/file/d/10J9YpEJ-UAFvp9GHNUrFJLCgAUtCqdee/view?usp=sharing) (NPTEL)
+* [Machine Learning with Python](https://drive.google.com/file/d/1Na3EbIMcqxvEOo-aZ5NR9DqxWhecDANc/view?usp=sharing) (Coursera)
+* [TCS Youth Employment Programme](https://drive.google.com/file/d/1L_w1ADrdtLkR2OtcmOAKlqutziqjl2VS/view?usp=sharing) (TCS iON)
 
 Activities
 ======
