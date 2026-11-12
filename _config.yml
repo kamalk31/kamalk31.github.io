@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kamalkant"
+title                    : "Kamalkant Jaiswal"
 title_separator          : "-"
 name                     : &name "Kamalkant Jaiswal"
 description              : &description "PhD Scholar in Statistics, Banaras Hindu University"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png.jpeg"
   name             : "Kamalkant Jaiswal"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Scholar and JRF in Statistics at BHU, working on Bayesian survival analysis and Multistate Models."
+  bio              : "PhD Scholar and JRF in Statistics at BHU, working on Bayesian survival analysis and multistate models."
   location         : "Varanasi, India"
   employer         : "Banaras Hindu University"
   uri              : # URL
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
