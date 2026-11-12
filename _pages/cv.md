@@ -13,9 +13,8 @@ Education
 ======
 * Ph.D. in Statistics, Banaras Hindu University, Feb 2026 – present
   * Specialisation: statistical modelling, reliability and survival analysis
-  * Funded by the UGC-JRF fellowship
-* M.Sc. in Statistics, Banaras Hindu University, Sep 2023 – Jun 2025 (CGPA 8.20/10)
-* B.Sc. in Mathematics and Statistics, IGNTU Amarkantak, Oct 2020 – Jun 2023 (8.27/10)
+* M.Sc. in Statistics, Banaras Hindu University, 2023 –2025 (CGPA 8.20/10)
+* B.Sc. in Mathematics and Statistics, IGNTU Amarkantak, 2020 – 2023 (8.27/10)
 
 Experience
 ======
@@ -24,9 +23,8 @@ Experience
 
 Examinations
 ======
-* UGC NET, December 2025: 214/300, 99.71 percentile (JRF and Assistant Professor)
-* UGC NET, June 2025: 198/300, 95.79 percentile (Assistant Professor and Ph.D.)
-* NET-Statistics: 164/300, 94.35 percentile (Assistant Professor and Ph.D.)
+* UGC NET JRF-Population Studies, December 2025: 99.71 percentile
+* UGC NET-Statistics: 94.35 percentile
 
 Projects
 ======
