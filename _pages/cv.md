@@ -23,7 +23,8 @@ Experience
 Examinations
 ======
 * [UGC NET JRF-Population Studies](https://drive.google.com/file/d/17gaby98GRyL3cykhna782mrrJa1y4Pvt/view), December 2025: 99.71 percentile
-* [UGC NET-Statistics](https://drive.google.com/file/d/1mbEjMMLSMGY57JN9POeWwGWGExnWSn-X/view): 94.35 percentile
+* [UGC NET-Statistics](https://drive.google.com/file/d/1mbEjMMLSMGY57JN9POeWwGWGExnWSn-X/view): June 2026:
+94.35 percentile
 
 Projects
 ======
