@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +13,7 @@ Education
 * Ph.D. in Statistics, Banaras Hindu University, Feb 2026 – present
   * Specialisation: statistical modelling, reliability and survival analysis
 * M.Sc. in Statistics, Banaras Hindu University, 2023 – 2025 (CGPA 8.20/10)
-* B.Sc. in Mathematics and Statistics, IGNTU Amarkantak, 2020 – 2023 (8.27/10)
+* B.Sc. in Mathematics and Statistics, IGNTU Amarkantak, 2020 – 2023 (CGPA 8.27/10)
 
 Experience
 ======
