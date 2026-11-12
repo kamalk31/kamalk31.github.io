@@ -61,13 +61,11 @@
     padding-left: 18%;
   }
 
-  /* keep the sidebar above the footer so its content is never hidden */
-  .sidebar {
-    z-index: 15;
-  }
-
-  /* on short pages, push the footer down to the bottom of the window */
+  /* lift the whole content area (and the sidebar inside it) above the footer,
+     and make short pages tall enough to push the footer to the bottom */
   #main {
+    position: relative;
+    z-index: 5;
     min-height: calc(100vh - 22em);
   }
 }
