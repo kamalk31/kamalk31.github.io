@@ -59,6 +59,17 @@
   .page__footer {
     box-sizing: border-box;
     padding-left: 18%;
+    border-top: none;
+  }
+
+  /* separator line that starts to the right of the sidebar */
+  .page__footer::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 18%;
+    right: 0;
+    border-top: 1px solid var(--global-dark-border-color);
   }
 
   /* lift the whole content area (and the sidebar inside it) above the footer,
