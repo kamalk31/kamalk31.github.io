@@ -13,7 +13,7 @@ title                    : "Kamalkant"
 title_separator          : "-"
 name                     : &name "Kamalkant Jaiswal"
 description              : &description "PhD Scholar in Statistics, Banaras Hindu University"
-url                      : https://kamalkant-stats.netlify.app
+url                      : https://kamalk31.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
