@@ -330,7 +330,7 @@
    instead of hiding them behind the Follow button
    ========================================================================== */
 
-@media screen and (max-width: #{$large - 1px}) {
+@media (max-width: #{$large - 1px}) { /* also used when printing */
   .author__urls-wrapper {
     display: block;
     margin-top: 0.5em;
@@ -369,7 +369,7 @@
 }
 
 /* phones: line the links up in tidy columns instead of a ragged row */
-@media screen and (max-width: #{$small - 1px}) {
+@media (max-width: #{$small - 1px}) {
   .author__urls {
     display: grid !important;
     grid-template-columns: repeat(auto-fill, minmax(7.25em, 1fr));
