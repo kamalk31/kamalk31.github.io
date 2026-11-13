@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 I am a PhD scholar and Junior Research Fellow (JRF) in Statistics at the
-Institute of Science, Banaras Hindu University (BHU), Varanasi. I began my PhD
-in February 2026, funded by the UGC-JRF fellowship.
+Institute of Science, Banaras Hindu University (BHU), Varanasi. 
+I began my PhD in February 2026, funded by the UGC-JRF fellowship.
 
 ## Research interests
 
