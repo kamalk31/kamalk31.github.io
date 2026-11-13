@@ -18,6 +18,6 @@ I began my PhD in February 2026, funded by the UGC-JRF fellowship.
 
 ## Background
 
-I completed my M.Sc. in Statistics at BHU ( 2023 – 2025) and my
-B.Sc. in Mathematics and Statistics at IGNTU Amarkantak ( 2020 – 2023). 
+I completed my M.Sc. in Statistics at BHU (2023 – 2025) and my
+B.Sc. in Mathematics and Statistics at IGNTU Amarkantak (2020 – 2023). 
 I qualified the UGC NET-JRF in December 2025 with a percentile of 99.71.
