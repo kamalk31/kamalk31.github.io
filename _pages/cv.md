@@ -47,7 +47,6 @@ Certifications
 ======
 * [Data Analytics with Python](https://drive.google.com/file/d/1EfRQYR7tV_whKNyXINnkuh9mMphJp5II/view?usp=sharing) (NPTEL)
 * [Introduction to Biostatistics](https://drive.google.com/file/d/10J9YpEJ-UAFvp9GHNUrFJLCgAUtCqdee/view?usp=sharing) (NPTEL)
-* [Machine Learning with Python](https://drive.google.com/file/d/1Na3EbIMcqxvEOo-aZ5NR9DqxWhecDANc/view?usp=sharing) (Coursera)
 * [TCS Youth Employment Programme](https://drive.google.com/file/d/1L_w1ADrdtLkR2OtcmOAKlqutziqjl2VS/view?usp=sharing) (TCS iON)
 
 Activities
