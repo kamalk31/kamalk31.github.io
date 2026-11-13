@@ -324,3 +324,54 @@
     }
   }
 }
+
+/*
+   Small screens: show the profile links straight away
+   instead of hiding them behind the Follow button
+   ========================================================================== */
+
+@media screen and (max-width: #{$large - 1px}) {
+  .author__urls-wrapper {
+    display: block;
+    margin-top: 0.5em;
+    cursor: default;
+
+    button {
+      display: none;
+    }
+  }
+
+  .author__urls {
+    display: flex !important; /* stays visible even if the old Follow script hid it */
+    flex-wrap: wrap;
+    column-gap: 1.5em;
+    position: static;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+
+    &:before,
+    &:after {
+      display: none;
+    }
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      min-height: 2.75rem; /* comfortable to tap */
+      margin: 0;
+      padding: 0;
+      font-size: 0.8125rem;
+    }
+  }
+}
+
+/* phones: line the links up in tidy columns instead of a ragged row */
+@media screen and (max-width: #{$small - 1px}) {
+  .author__urls {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(7.25em, 1fr));
+  }
+}
